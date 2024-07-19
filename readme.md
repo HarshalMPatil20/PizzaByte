@@ -28,15 +28,15 @@ Order Confirmation: Receive instant order confirmation and payment receipts.
 
 ### ``` 1. Login Page ``` 
 
-<img src="img/3.png" alt="image" width="300" height="auto" >
-<img src="img/4.png" alt="image" width="300" height="auto" >
+<img src="img/3.png" alt="image" width="200" height="auto" > &nbsp; &nbsp; &nbsp;
+<img src="img/4.png" alt="image" width="200" height="auto" >
 
 ### ``` 2. Menu Page ``` 
-<img src="img/pizza_menu.png" alt="image" width="300" height="auto" >
-<img src="img/1.png" alt="image" width="300" height="auto" >
+<img src="img/pizza_menu.png" alt="image" width="200" height="auto" >&nbsp; &nbsp; &nbsp;
+<img src="img/1.png" alt="image" width="200" height="auto" >
 
 ### ``` 3. Payment Gateway ``` 
-<img src="img/2.png" alt="image" width="300" height="auto" >
+<img src="img/2.png" alt="image" width="200" height="auto" >
 
 ## Installation
 
